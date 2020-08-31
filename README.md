@@ -1,4 +1,4 @@
-<h1 align="center">Generate hmtl</h1>
+<h1 align="center">Generate html</h1>
 
 ![](https://raw.githubusercontent.com/eduardonk9999/generate-html/master/buttonCreator/button.gif "Logo") 
 
